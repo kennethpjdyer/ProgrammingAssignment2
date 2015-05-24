@@ -8,7 +8,7 @@
 #   solution, caching it in memory to save processing time    #
 #   for future use.                                           #
 #                                                             #
-# Author: Kenneth P. J. Dyer                                  #
+# Author: Kenneth P. J. Dyer. Richard Peng                    #
 # Version: 0.2                                                #
 # Date: 23 May 2015                                           #  
 ###############################################################
